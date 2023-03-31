@@ -1,6 +1,6 @@
 Name:		texlive-fnspe
 Version:	45360
-Release:	1
+Release:	2
 Summary:	Macros for supporting mainly students of FNSPE CTU in Prague
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fnspe
